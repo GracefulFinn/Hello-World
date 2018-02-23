@@ -1,3 +1,3 @@
 # Hello-World
-Just some simple codes in
-emmmmmmm
+Just some simple code
+emmmmmmmmmm
